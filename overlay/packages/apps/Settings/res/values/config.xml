@@ -12,6 +12,9 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  
+  <!-- Whether device supports switching the display refreshrate -->
+    <bool name="config_device_supports_switch_refreshrate">true</bool>
 
     <!-- Whether to show refresh rate in display settings -->
     <bool name="config_show_refresh_rate_switch">true</bool>
